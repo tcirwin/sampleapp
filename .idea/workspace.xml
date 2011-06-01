@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f67c1922-74bf-4698-8bd6-c9607315ebe2" name="Changes: Pages files" comment="making the Pages html files pass the tests.">
+    <list default="true" id="f67c1922-74bf-4698-8bd6-c9607315ebe2" name="Changes: Pages files" comment="committing rubymine files">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="sample_app.iws" />
@@ -527,7 +527,7 @@
     <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="making the Pages html files pass the tests." />
+    <option name="LAST_COMMIT_MESSAGE" value="committing rubymine files" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -542,6 +542,7 @@
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="Editing some other files for chapter 3." />
     <MESSAGE value="making the Pages html files pass the tests." />
+    <MESSAGE value="committing rubymine files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
